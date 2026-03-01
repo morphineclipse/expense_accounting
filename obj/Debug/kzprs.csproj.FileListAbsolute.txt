@@ -1,0 +1,22 @@
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.csproj.AssemblyReference.cache
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.Properties.Resources.resources
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.csproj.GenerateResource.cache
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.csproj.CoreCompileInputs.cache
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\bin\Debug\kzprs.exe.config
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\bin\Debug\kzprs.exe
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\bin\Debug\kzprs.pdb
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.Form1.resources
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.exe
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.pdb
+C:\Users\rggr1\Desktop\Ковалева пз расходы\kzprs\obj\Debug\kzprs.exe.config
+C:\Users\eclipse\Desktop\kzprs\bin\Debug\kzprs.exe.config
+C:\Users\eclipse\Desktop\kzprs\bin\Debug\kzprs.exe
+C:\Users\eclipse\Desktop\kzprs\bin\Debug\kzprs.pdb
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.csproj.AssemblyReference.cache
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.exe.config
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.Form1.resources
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.Properties.Resources.resources
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.csproj.GenerateResource.cache
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.csproj.CoreCompileInputs.cache
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.exe
+C:\Users\eclipse\Desktop\kzprs\obj\Debug\kzprs.pdb

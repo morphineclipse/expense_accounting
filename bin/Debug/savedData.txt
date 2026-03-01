@@ -1,0 +1,4 @@
+﻿TOTAL|*
+FOOD|*
+TRANSPORT|*
+FUN|*
